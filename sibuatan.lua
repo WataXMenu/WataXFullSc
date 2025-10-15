@@ -7,12 +7,7 @@ local hrp
 
 
 local ROUTE_LINKS = {
-    "https://raw.githubusercontent.com/WataXMenu/WataXSc/refs/heads/main/sibuatan/sibuatan.lua",
-    "https://raw.githubusercontent.com/WataXMenu/WataXSc/refs/heads/main/sibuatan/sibuatan2.lua",
-    "https://raw.githubusercontent.com/WataXMenu/WataXSc/refs/heads/main/sibuatan/sibuatan3.lua",
-    "https://raw.githubusercontent.com/WataXMenu/WataXSc/refs/heads/main/sibuatan/sibuatan4.lua",
-    "https://raw.githubusercontent.com/WataXMenu/WataXSc/refs/heads/main/sibuatan/sibuatan5.lua",
-    "https://raw.githubusercontent.com/WataXMenu/WataXSc/refs/heads/main/sibuatan/sibuatan6.lua",
+    "https://raw.githubusercontent.com/WataXMenu/WataXSc/refs/heads/main/sibuatan/sibuatan_all.lua",
 }
 
 
